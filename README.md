@@ -1,2 +1,2 @@
 # tv
-# https://melstv.github.io/tv/eden.m3u8
+# EDEN https://melstv.github.io/tv/eden.m3u8
