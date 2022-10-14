@@ -1,316 +1,186 @@
 #EXTM3U
-#EXTINF:0 tvg-rec="0",РБК 50
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/10029/index.m3u8
-#EXTINF:0 tvg-rec="0",BBC First HD
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/19181/index.m3u8
-#EXTINF:0 tvg-rec="0",BBC Parliament
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/19182/index.m3u8
-#EXTINF:0 tvg-rec="0",BBC Scotland
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/19183/index.m3u8
-#EXTINF:0 tvg-rec="0",BBC World News
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/19184/index.m3u8
-#EXTINF:0 tvg-rec="0",РБК HD
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/16075/index.m3u8
-#EXTINF:0 tvg-rec="0",РБК FHD Екатеринбург
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/16077/index.m3u8
-#EXTINF:0 tvg-rec="0",Россия 1 +0 (Элиста)
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15447/index.m3u8
-#EXTINF:0 tvg-rec="0",Россия 1 +0 (Тамбов)
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15465/index.m3u8
-#EXTINF:0 tvg-rec="0",Инфоканал
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/435/index.m3u8
-#EXTINF:0 tvg-rec="7",РБК-ТВ
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/106/index.m3u8
-#EXTINF:0 tvg-rec="7",Пятый канал
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/112/index.m3u8
-#EXTINF:0 tvg-rec="7",Москва 24
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/523/index.m3u8
-#EXTINF:0 tvg-rec="3",BBC World News
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/545/index.m3u8
-#EXTINF:0 tvg-rec="7",Мир 24
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/712/index.m3u8
-#EXTINF:0 tvg-rec="3",НТВ (+2)
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/713/index.m3u8
-#EXTINF:0 tvg-rec="7",Санкт-Петербург
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/715/index.m3u8
-#EXTINF:0 tvg-rec="3",Пятый Канал (+2)
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/746/index.m3u8
-#EXTINF:0 tvg-rec="3",FRANCE 24 En
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/947/index.m3u8
-#EXTINF:0 tvg-rec="3",CNBC
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/962/index.m3u8
-#EXTINF:0 tvg-rec="0",Euronews
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/969/index.m3u8
-#EXTINF:0 tvg-rec="3",Deutsche Welle DE
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/1021/index.m3u8
-#EXTINF:0 tvg-rec="7",360°
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/825/index.m3u8
-#EXTINF:0 tvg-rec="7",Euronews Россия
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/828/index.m3u8
-#EXTINF:0 tvg-rec="7",CGTN
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/830/index.m3u8
-#EXTINF:0 tvg-rec="7",CGTN русский
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/831/index.m3u8
-#EXTINF:0 tvg-rec="3",RT News
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/840/index.m3u8
-#EXTINF:0 tvg-rec="3",CNN International Europe
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/842/index.m3u8
-#EXTINF:0 tvg-rec="7",Известия
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/2008/index.m3u8
-#EXTINF:0 tvg-rec="7",Дождь
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/2030/index.m3u8
-#EXTINF:0 tvg-rec="3",Центральное телевидение
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/2064/index.m3u8
-#EXTINF:0 tvg-rec="3",Вместе-РФ
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/2073/index.m3u8
-#EXTINF:0 tvg-rec="3",RTVi
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/2086/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky News UK
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/2475/index.m3u8
-#EXTINF:0 tvg-rec="0",ABC News AU
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6120/index.m3u8
-#EXTINF:0 tvg-rec="0",Band News BR
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6161/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky News Extra 2 AU
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6114/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky News Extra 3 AU
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6115/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky News Extra 3 AU
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6117/index.m3u8
-#EXTINF:0 tvg-rec="0",360° HD
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/7254/index.m3u8
-#EXTINF:0 tvg-rec="0",POLSAT NEWS 2 HD PL
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/7297/index.m3u8
-#EXTINF:0 tvg-rec="7",Первый канал
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/127/index.m3u8
-#EXTINF:0 tvg-rec="0",Первый канал +0 (Белгород)
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15407/index.m3u8
-#EXTINF:0 tvg-rec="0",Первый канал +0 (Липецк)
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15375/index.m3u8
-#EXTINF:0 tvg-rec="0",Первый канал +0 (Невинномысск)
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15323/index.m3u8
-#EXTINF:0 tvg-rec="0",Первый канал +0 (Тамбов)
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15464/index.m3u8
-#EXTINF:0 tvg-rec="0",Первый канал +0 (Элиста)
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15443/index.m3u8
-#EXTINF:0 tvg-rec="3",Первый канал (+2)
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/714/index.m3u8
-#EXTINF:0 tvg-rec="0",Первый канал +2 (Белорецк)
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15486/index.m3u8
-#EXTINF:0 tvg-rec="0",Первый канал +2 (Нефтекамск)
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15481/index.m3u8
-#EXTINF:0 tvg-rec="0",Первый канал +2 (Уфа, ЗТ)
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15301/index.m3u8
-#EXTINF:0 tvg-rec="0",Первый канал +3 (Омск)
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15431/index.m3u8
-#EXTINF:0 tvg-rec="0",Первый канал +4
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6021/index.m3u8
-#EXTINF:0 tvg-rec="0",Первый канал +4 (Алтай, Дианэт)
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15287/index.m3u8
-#EXTINF:0 tvg-rec="0",Первый канал +4 (Томск)
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15385/index.m3u8
-#EXTINF:0 tvg-rec="0",Первый канал +6
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6037/index.m3u8
-#EXTINF:0 tvg-rec="0",Первый канал +7 (Владивосток)
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15333/index.m3u8
-#EXTINF:0 tvg-rec="0",Первый канал +8
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6050/index.m3u8
-#EXTINF:0 tvg-rec="7",Россия 1
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/504/index.m3u8
-#EXTINF:0 tvg-rec="0",Россия 1 +0 (Алания)
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15403/index.m3u8
-#EXTINF:0 tvg-rec="0",Россия 1 +0 (Белгород)
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15408/index.m3u8
-#EXTINF:0 tvg-rec="0",Россия 1 +0 (Невинномысск)
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15324/index.m3u8
-#EXTINF:0 tvg-rec="0",Россия 1 +0 (Липецк)
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15313/index.m3u8
-#EXTINF:0 tvg-rec="0",Россия 1 +1 (Приволжье, Китеж)
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15284/index.m3u8
-#EXTINF:0 tvg-rec="0",Россия-1 +2
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6011/index.m3u8
-#EXTINF:0 tvg-rec="0",Россия 1 +2 (Уфа)
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15302/index.m3u8
-#EXTINF:0 tvg-rec="0",Россия 1 +3 (Омск)
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15377/index.m3u8
-#EXTINF:0 tvg-rec="0",Россия-1 +4
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6022/index.m3u8
-#EXTINF:0 tvg-rec="0",Россия 1 +4 (Абакан-Орион)
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15367/index.m3u8
-#EXTINF:0 tvg-rec="0",Россия 1 +4 (Алтай, Дианэт)
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15288/index.m3u8
-#EXTINF:0 tvg-rec="0",Россия 1 +4 (Иркутск-Dreamnet)
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15413/index.m3u8
-#EXTINF:0 tvg-rec="0",Россия 1 +4 (Орион)
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15415/index.m3u8
-#EXTINF:0 tvg-rec="0",Россия 1 +4 (Томск)
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15386/index.m3u8
-#EXTINF:0 tvg-rec="0",Россия 1 +5 (Братск-Орион)
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15360/index.m3u8
-#EXTINF:0 tvg-rec="0",Россия-1 +6
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6038/index.m3u8
-#EXTINF:0 tvg-rec="0",Россия 1 +7 (Владивосток)
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15334/index.m3u8
-#EXTINF:0 tvg-rec="0",Россия-1 +8
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6051/index.m3u8
-#EXTINF:0 tvg-rec="7",Россия-24
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/507/index.m3u8
-#EXTINF:0 tvg-rec="0",Россия 24 +0 (Алания)
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15404/index.m3u8
-#EXTINF:0 tvg-rec="0",Россия 24 +0 (Белгород)
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15412/index.m3u8
-#EXTINF:0 tvg-rec="0",Россия 24 +0 (Липецк)
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15405/index.m3u8
-#EXTINF:0 tvg-rec="0",Россия 24 +0 (Невинномысск)
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15329/index.m3u8
-#EXTINF:0 tvg-rec="0",Россия 24 +0 (Тамбов)
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15468/index.m3u8
-#EXTINF:0 tvg-rec="0",Россия 24 +0 (Элиста)
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15452/index.m3u8
-#EXTINF:0 tvg-rec="3",Россия-24 +2
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6013/index.m3u8
-#EXTINF:0 tvg-rec="0",Россия 24 +2 (Пермь)
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15446/index.m3u8
-#EXTINF:0 tvg-rec="0",Россия 24 +2 (Уфа)
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15312/index.m3u8
-#EXTINF:0 tvg-rec="0",Россия 24 +3 (Омск)
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15378/index.m3u8
-#EXTINF:0 tvg-rec="0",Россия 24 +4 (Абакан-Орион)
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15368/index.m3u8
-#EXTINF:0 tvg-rec="0",Россия 24 +4 (Алтай, Дианэт)
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15292/index.m3u8
-#EXTINF:0 tvg-rec="0",Россия 24 +4 (Орион)
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15416/index.m3u8
-#EXTINF:0 tvg-rec="0",Россия 24 +4 (Томск)
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15390/index.m3u8
-#EXTINF:0 tvg-rec="0",Россия 24 +5 (Братск-Орион)
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15361/index.m3u8
-#EXTINF:0 tvg-rec="0",Россия 24 +5 (Иркутск-Орион)
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15358/index.m3u8
-#EXTINF:0 tvg-rec="0",Россия 24 +7 (Владивосток)
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15339/index.m3u8
-#EXTINF:0 tvg-rec="0",100 % NEWS
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/16041/index.m3u8
-#EXTINF:0 tvg-rec="0",360 НОВОСТИ HD
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/18038/index.m3u8
-#EXTINF:0 tvg-rec="0",Известия FHD
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/18039/index.m3u8
-#EXTINF:0 tvg-rec="0",Россия РТР
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/18042/index.m3u8
-#EXTINF:0 tvg-rec="0",BBC 1 HD
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/19176/index.m3u8
-#EXTINF:0 tvg-rec="0",BBC 2 HD
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/19177/index.m3u8
-#EXTINF:0 tvg-rec="0",BBC 4 HD
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/19178/index.m3u8
-#EXTINF:0 tvg-rec="0",BBC Alba HD
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/19179/index.m3u8
-#EXTINF:0 tvg-rec="0",BBC Entertainment
-#EXTGRP:новости
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/19180/index.m3u8
+#EXTINF:0 tvg-rec="3",UA:Перший HD
+#EXTGRP:українські
+http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6376/index.m3u8
+
+#EXTINF:0 tvg-rec="3",Прямий HD
+#EXTGRP:українські
+http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/1015/index.m3u8
+
+#EXTINF:0 tvg-rec="3",Україна 24 HD
+#EXTGRP:українські
+http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/1022/index.m3u8
+
+#EXTINF:0 tvg-rec="3",8 Канал UA HD
+#EXTGRP:українські
+http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/1046/index.m3u8
+
+#EXTINF:0 tvg-rec="3",24 Канал HD
+#EXTGRP:українські
+http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/1063/index.m3u8
+
+#EXTINF:0 tvg-rec="3",Інтер HD
+#EXTGRP:українські
+http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/1047/index.m3u8
+
+#EXTINF:0 tvg-rec="0",ICTV HD
+#EXTGRP:українські
+http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15123/index.m3u8
+
+#EXTINF:0 tvg-rec="0",СТБ HD
+#EXTGRP:українські
+http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15122/index.m3u8
+
+#EXTINF:0 tvg-rec="0",Новий канал HD
+#EXTGRP:українські
+http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15128/index.m3u8
+
+#EXTINF:0 tvg-rec="3",ТРК Украина HD UA
+#EXTGRP:українські
+http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6318/index.m3u8
+
+#EXTINF:0 tvg-rec="3",Эспресо ТВ HD UA
+#EXTGRP:українські
+http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6321/index.m3u8
+
+#EXTINF:0 tvg-rec="3",Болт HD UA
+#EXTGRP:українські
+http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6322/index.m3u8
+
+#EXTINF:0 tvg-rec="3",8 канал HD UA
+#EXTGRP:українські
+http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6327/index.m3u8
+
+#EXTINF:0 tvg-rec="0",Мега HD
+#EXTGRP:українські
+http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15124/index.m3u8
+
+#EXTINF:0 tvg-rec="0",K1 HD
+#EXTGRP:українські
+http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15125/index.m3u8
+
+#EXTINF:0 tvg-rec="0",ПРАВДАТУТ HD UA
+#EXTGRP:українські
+http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15272/index.m3u8
+
+#EXTINF:0 tvg-rec="3",ТВС HD UA
+#EXTGRP:українські
+http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/942/index.m3u8
+
+#EXTINF:0 tvg-rec="0",Zoom HD
+#EXTGRP:українські
+http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15130/index.m3u8
+
+#EXTINF:0 tvg-rec="3",Эспресо TV UA
+#EXTGRP:українські
+http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6311/index.m3u8
+
+#EXTINF:0 tvg-rec="3",Star Cinema HD UA
+#EXTGRP:українські
+http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6325/index.m3u8
+
+#EXTINF:0 tvg-rec="3",Star Family HD UA
+#EXTGRP:українські
+http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6326/index.m3u8
+
+#EXTINF:0 tvg-rec="3",ОЦЕ HD
+#EXTGRP:українські
+http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6375/index.m3u8
+
+#EXTINF:0 tvg-rec="3",М1 HD UA
+#EXTGRP:українські
+http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6334/index.m3u8
+
+#EXTINF:0 tvg-rec="3",М2 HD UA
+#EXTGRP:українські
+http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6335/index.m3u8
+
+#EXTINF:0 tvg-rec="0",EU Music HD UA
+#EXTGRP:українські
+http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15276/index.m3u8
+
+#EXTINF:0 tvg-rec="0",EU MUSIC UA
+#EXTGRP:українські
+http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15277/index.m3u8
+
+#EXTINF:0 tvg-rec="0",4ever Music HD UA
+#EXTGRP:українські
+http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15278/index.m3u8
+
+#EXTINF:0 tvg-rec="0",Megogo live HD UA
+#EXTGRP:українські
+http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15234/index.m3u8
+
+#EXTINF:0 tvg-rec="0",Первый автомобильный HD
+#EXTGRP:українські
+http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/7228/index.m3u8
+
+#EXTINF:0 tvg-rec="0",Film Box Art House HD UA
+#EXTGRP:українські
+http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15265/index.m3u8
+
+#EXTINF:0 tvg-rec="0",Піксель HD
+#EXTGRP:українські
+http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15127/index.m3u8
+
+#EXTINF:0 tvg-rec="3",NIKI Kids HD UA
+#EXTGRP:українські
+http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6332/index.m3u8
+
+#EXTINF:0 tvg-rec="3",NIKI Junior HD UA
+#EXTGRP:українські
+http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6333/index.m3u8
+
+#EXTINF:0 tvg-rec="3",Кус Кус HD UA
+#EXTGRP:українські
+http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6341/index.m3u8
+
+#EXTINF:0 tvg-rec="0",XSPORT Plus HD UA
+#EXTGRP:українські
+http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15261/index.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:0 tvg-rec="3",XSPORT UA
+#EXTGRP:українські
+http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6331/index.m3u8
+
+#EXTINF:0 tvg-rec="3",Спорт-1 UA
+#EXTGRP:українські
+http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6313/index.m3u8
+
+#EXTINF:0 tvg-rec="3",Спорт-2 UA
+#EXTGRP:українські
+http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6314/index.m3u8
+
+#EXTINF:0 tvg-rec="0",Терра UA
+#EXTGRP:українські
+http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15260/index.m3u8
+
+#EXTINF:0 tvg-rec="0",Quiz TV UA
+#EXTGRP:українські
+http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15263/index.m3u8
+
+#EXTINF:0 tvg-rec="0",Kino 1 UA
+#EXTGRP:українські
+http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15264/index.m3u8
+
+#EXTINF:0 tvg-rec="0",ТЕЛЕВСЕСВІТ UA
+#EXTGRP:українські
+http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15267/index.m3u8
+
+#EXTINF:0 tvg-rec="0",Наше РЕТРО UA
+#EXTGRP:українські
+http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15270/index.m3u8
+
+
 #EXTINF:0 tvg-rec="0",VF New Year
 #EXTGRP:кино
 http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15522/index.m3u8
@@ -1970,501 +1840,7 @@ http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/19414/index.m3u8
 #EXTINF:0 tvg-rec="0",Citrus Live HD (C-Live HD)
 #EXTGRP:кино
 http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/19436/index.m3u8
-#EXTINF:0 tvg-rec="7",Europa Plus TV
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/115/index.m3u8
-#EXTINF:0 tvg-rec="0",Муз ТВ +4
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6036/index.m3u8
-#EXTINF:0 tvg-rec="7",МУЗ-ТВ
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/116/index.m3u8
-#EXTINF:0 tvg-rec="3",Bridge Русский Хит
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/120/index.m3u8
-#EXTINF:0 tvg-rec="7",Bridge TV
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/122/index.m3u8
-#EXTINF:0 tvg-rec="7",BRIDGE TV HITS
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/711/index.m3u8
-#EXTINF:0 tvg-rec="0",Bridge Шлягер
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/10038/index.m3u8
-#EXTINF:0 tvg-rec="0",Bridge tv Фрэш
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/17043/index.m3u8
-#EXTINF:0 tvg-rec="7",MTV
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/142/index.m3u8
-#EXTINF:0 tvg-rec="7",MTV Hits
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/153/index.m3u8
-#EXTINF:0 tvg-rec="7",Музыка
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/155/index.m3u8
-#EXTINF:0 tvg-rec="7",Mezzo Live HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/208/index.m3u8
-#EXTINF:0 tvg-rec="7",MTV 00s
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/536/index.m3u8
-#EXTINF:0 tvg-rec="7",Club MTV
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/558/index.m3u8
-#EXTINF:0 tvg-rec="7",Mezzo
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/707/index.m3u8
-#EXTINF:0 tvg-rec="7",ТНТ MUSIC
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/710/index.m3u8
-#EXTINF:0 tvg-rec="7",MTV 80s
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/724/index.m3u8
-#EXTINF:0 tvg-rec="3",Vostok TV
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/1054/index.m3u8
-#EXTINF:0 tvg-rec="3",MTV 90s
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/1038/index.m3u8
-#EXTINF:0 tvg-rec="7",MCM Top Russia
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/836/index.m3u8
-#EXTINF:0 tvg-rec="7",RU TV
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/838/index.m3u8
-#EXTINF:0 tvg-rec="7",Шансон ТВ
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/859/index.m3u8
-#EXTINF:0 tvg-rec="7",Ля-минор ТВ
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/2043/index.m3u8
-#EXTINF:0 tvg-rec="7",Music Box Russia
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/2048/index.m3u8
-#EXTINF:0 tvg-rec="3",Курай TV
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/2061/index.m3u8
-#EXTINF:0 tvg-rec="3",о2тв
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/2068/index.m3u8
-#EXTINF:0 tvg-rec="3",МузСоюз
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/2137/index.m3u8
-#EXTINF:0 tvg-rec="3",Жар Птица
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/2142/index.m3u8
-#EXTINF:0 tvg-rec="3",AIVA TV HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/2156/index.m3u8
-#EXTINF:0 tvg-rec="0",NRG 91
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/7223/index.m3u8
-#EXTINF:0 tvg-rec="0",Ritsa TV
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/7224/index.m3u8
-#EXTINF:0 tvg-rec="0",MTV POLSKA PL
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/7294/index.m3u8
-#EXTINF:0 tvg-rec="7",RETRO DANCE 90'S
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/10064/index.m3u8
-#EXTINF:0 tvg-rec="7",M20 tv DJ station
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/10067/index.m3u8
-#EXTINF:0 tvg-rec="7",4 Fun TV
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/10069/index.m3u8
-#EXTINF:0 tvg-rec="7",Deejay TV
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/10070/index.m3u8
-#EXTINF:0 tvg-rec="7",Первый музыкальный HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/10076/index.m3u8
-#EXTINF:0 tvg-rec="0",MTV SE
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/12055/index.m3u8
-#EXTINF:0 tvg-rec="0",Z! Musiс HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/14138/index.m3u8
-#EXTINF:0 tvg-rec="0",Z! Rock HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/14139/index.m3u8
-#EXTINF:0 tvg-rec="0",Первый музыкальный
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/14143/index.m3u8
-#EXTINF:0 tvg-rec="0",Первый музыкальный BY
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/14145/index.m3u8
-#EXTINF:0 tvg-rec="0",Fresh HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/14146/index.m3u8
-#EXTINF:0 tvg-rec="0",Eurodance 90
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/14148/index.m3u8
-#EXTINF:0 tvg-rec="0",Music Box Gold
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/14149/index.m3u8
-#EXTINF:0 tvg-rec="0",Страна FM HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/14152/index.m3u8
-#EXTINF:0 tvg-rec="0",Dmitry-tv HD Test
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/14153/index.m3u8
-#EXTINF:0 tvg-rec="0",Dance Hits of 90s
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/14154/index.m3u8
-#EXTINF:0 tvg-rec="0",Русская попса 80х-90х
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/14155/index.m3u8
-#EXTINF:0 tvg-rec="0",Russian Dance Hits of 90s
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/14156/index.m3u8
-#EXTINF:0 tvg-rec="0",Новое радио FHD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/14162/index.m3u8
-#EXTINF:0 tvg-rec="0",RU TV FHD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/14164/index.m3u8
-#EXTINF:0 tvg-rec="0",HITV FHD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/14165/index.m3u8
-#EXTINF:0 tvg-rec="0",ТНТ Music FHD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/14166/index.m3u8
-#EXTINF:0 tvg-rec="0",RETRO TV
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/14169/index.m3u8
-#EXTINF:0 tvg-rec="0",Илья ТВ Алла Пугачёва HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/14237/index.m3u8
-#EXTINF:0 tvg-rec="0",Илья ТВ Наш Сериал
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/16154/index.m3u8
-#EXTINF:0 tvg-rec="0",SKY HIGH CONCERT HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/14241/index.m3u8
-#EXTINF:0 tvg-rec="0",SKY HIGH DANCE UHD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/14250/index.m3u8
-#EXTINF:0 tvg-rec="0",SKY HIGH CLASSIC HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15104/index.m3u8
-#EXTINF:0 tvg-rec="0",Stingray Hot Country HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15001/index.m3u8
-#EXTINF:0 tvg-rec="0",Stingray Pop Adult HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15002/index.m3u8
-#EXTINF:0 tvg-rec="0",Stingray Hit List HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15003/index.m3u8
-#EXTINF:0 tvg-rec="0",Stingray Qello TV HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15004/index.m3u8
-#EXTINF:0 tvg-rec="0",Stingray Hip Hop/R&B HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15005/index.m3u8
-#EXTINF:0 tvg-rec="0",Stingray Soul Storm STORM HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15006/index.m3u8
-#EXTINF:0 tvg-rec="0",Stingray Greatest Hits HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15007/index.m3u8
-#EXTINF:0 tvg-rec="0",Stingray Exitos Del Momento HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15008/index.m3u8
-#EXTINF:0 tvg-rec="0",Stingray Karaoke HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15011/index.m3u8
-#EXTINF:0 tvg-rec="0",Stingray Classic Rock HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15012/index.m3u8
-#EXTINF:0 tvg-rec="0",Stingray Flashback 70S HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15013/index.m3u8
-#EXTINF:0 tvg-rec="0",Stingray Alternative HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15014/index.m3u8
-#EXTINF:0 tvg-rec="0",Stingray Remember The 80S HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15015/index.m3u8
-#EXTINF:0 tvg-rec="0",M1 HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15016/index.m3u8
-#EXTINF:0 tvg-rec="0",M2 HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15017/index.m3u8
-#EXTINF:0 tvg-rec="0",MTV Biggest Pop HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15018/index.m3u8
-#EXTINF:0 tvg-rec="0",MTV Block Party HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15019/index.m3u8
-#EXTINF:0 tvg-rec="0",V2BEAT HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15020/index.m3u8
-#EXTINF:0 tvg-rec="0",Zerouno TV
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15021/index.m3u8
-#EXTINF:0 tvg-rec="0",минимакс-relax HD 30 FPS
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/13030/index.m3u8
-#EXTINF:0 tvg-rec="0",Trace Urban HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15107/index.m3u8
-#EXTINF:0 tvg-rec="0",C4K360
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15233/index.m3u8
-#EXTINF:0 tvg-rec="0",Муз ТВ +3 (Омск)
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15441/index.m3u8
-#EXTINF:0 tvg-rec="0",Муз ТВ +0 (Элиста)
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15461/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Музыка
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15512/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Music
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15516/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Rock
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15517/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Караоке
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15518/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Шансон
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15519/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Музсоюз
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15521/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Музыкальный Новый год!
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/16140/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Metal
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/17033/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Rap
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/17034/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Хит-парад
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/17036/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Русский рок
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/17037/index.m3u8
-#EXTINF:0 tvg-rec="0",Best Live Performances
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/16003/index.m3u8
-#EXTINF:0 tvg-rec="0",Romantic & Ballads
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/16014/index.m3u8
-#EXTINF:0 tvg-rec="0",LoveIsRadio.by
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/16015/index.m3u8
-#EXTINF:0 tvg-rec="0",INRATING TV HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/16020/index.m3u8
-#EXTINF:0 tvg-rec="0",Радио Шансон тв HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/16036/index.m3u8
-#EXTINF:0 tvg-rec="0",Muzzik Zz 4K
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/16044/index.m3u8
-#EXTINF:0 tvg-rec="0",Восток ТВ
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/16062/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Микс Music FHD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/16070/index.m3u8
-#EXTINF:0 tvg-rec="0",Kiss Kiss Tv HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/16072/index.m3u8
-#EXTINF:0 tvg-rec="0",Kiss Kiss Italia HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/16073/index.m3u8
-#EXTINF:0 tvg-rec="0",Kiss Kiss Napoli HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/16074/index.m3u8
-#EXTINF:0 tvg-rec="0",Zero Uno HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/16076/index.m3u8
-#EXTINF:0 tvg-rec="0",KLI Music HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/16079/index.m3u8
-#EXTINF:0 tvg-rec="0",KLI Hit 90
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/16081/index.m3u8
-#EXTINF:0 tvg-rec="0",M6Music HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/17045/index.m3u8
-#EXTINF:0 tvg-rec="0",HIT Music
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/17047/index.m3u8
-#EXTINF:0 tvg-rec="0",Радио ХИТ ОРС HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/17048/index.m3u8
-#EXTINF:0 tvg-rec="0",CONTACT music hd
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/17051/index.m3u8
-#EXTINF:0 tvg-rec="0",Dieter Bohlen und Thomas Anders
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/17052/index.m3u8
-#EXTINF:0 tvg-rec="0",AIVA TV HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/18033/index.m3u8
-#EXTINF:0 tvg-rec="0",Backus tv music HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/18040/index.m3u8
-#EXTINF:0 tvg-rec="0",Vh 1 FHD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/18041/index.m3u8
-#EXTINF:0 tvg-rec="0",IMUZZ MUSIC HITS
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/18054/index.m3u8
-#EXTINF:0 tvg-rec="0",Музыка 1 HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/18077/index.m3u8
-#EXTINF:0 tvg-rec="0",Музыка 1 International HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/18078/index.m3u8
-#EXTINF:0 tvg-rec="0",Музыка 2 HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/18079/index.m3u8
-#EXTINF:0 tvg-rec="0",Музыка 2 International
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/18080/index.m3u8
-#EXTINF:0 tvg-rec="0",Музыка Кино HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/18081/index.m3u8
-#EXTINF:0 tvg-rec="0",Музыка Кино International
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/18082/index.m3u8
-#EXTINF:0 tvg-rec="0",Балет Опера HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/18083/index.m3u8
-#EXTINF:0 tvg-rec="0",FRESH Pop Hits HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/18084/index.m3u8
-#EXTINF:0 tvg-rec="0",FRESH Russian Pop HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/18085/index.m3u8
-#EXTINF:0 tvg-rec="0",FRESH Sad Music HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/18086/index.m3u8
-#EXTINF:0 tvg-rec="0",FRESH Dance HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/18087/index.m3u8
-#EXTINF:0 tvg-rec="0",FRESH Rock Hits HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/18088/index.m3u8
-#EXTINF:0 tvg-rec="0",FRESH Rock Covers HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/18089/index.m3u8
-#EXTINF:0 tvg-rec="0",FRESH Russian Rap HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/18090/index.m3u8
-#EXTINF:0 tvg-rec="0",FRESH Concerts HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/18091/index.m3u8
-#EXTINF:0 tvg-rec="0",FRESH Retro HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/18092/index.m3u8
-#EXTINF:0 tvg-rec="0",FRESH Lyrics HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/18093/index.m3u8
-#EXTINF:0 tvg-rec="0",MTV Classic USA
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/19148/index.m3u8
-#EXTINF:0 tvg-rec="0",MTV 00's PT
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/19159/index.m3u8
-#EXTINF:0 tvg-rec="0",MuzzOne KZ
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/19164/index.m3u8
-#EXTINF:0 tvg-rec="0",YES-MTV 00s
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/19167/index.m3u8
-#EXTINF:0 tvg-rec="0",Stars TV HD PL
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/19168/index.m3u8
-#EXTINF:0 tvg-rec="0",Disco Polo Music PL
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/19169/index.m3u8
-#EXTINF:0 tvg-rec="0",Polo TV FHD PL
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/19170/index.m3u8
-#EXTINF:0 tvg-rec="0",Vox Music TV PL
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/19171/index.m3u8
-#EXTINF:0 tvg-rec="0",Eska Rock TV PL
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/19172/index.m3u8
-#EXTINF:0 tvg-rec="0",Eska TV Extra PL
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/19173/index.m3u8
-#EXTINF:0 tvg-rec="0",Eska TV PL
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/19174/index.m3u8
-#EXTINF:0 tvg-rec="0",Box Hits HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/19175/index.m3u8
-#EXTINF:0 tvg-rec="0",MTV Music UK HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/19192/index.m3u8
-#EXTINF:0 tvg-rec="0",Kiss TV UK
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/19193/index.m3u8
-#EXTINF:0 tvg-rec="0",NOW 70s UK
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/19194/index.m3u8
-#EXTINF:0 tvg-rec="0",Now 70s HD UK
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/19195/index.m3u8
-#EXTINF:0 tvg-rec="0",Now 80s HD UK
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/19196/index.m3u8
-#EXTINF:0 tvg-rec="0",Now 90s HD UK
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/19197/index.m3u8
-#EXTINF:0 tvg-rec="0",MTV Base UK
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/19198/index.m3u8
-#EXTINF:0 tvg-rec="0",NRJ HITS HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/19199/index.m3u8
-#EXTINF:0 tvg-rec="0",ТНТ Music HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/19223/index.m3u8
-#EXTINF:0 tvg-rec="0",Bridge Deluxe HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/19224/index.m3u8
-#EXTINF:0 tvg-rec="0",Bridge Фреш HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/19225/index.m3u8
-#EXTINF:0 tvg-rec="0",Bridge Русский Хит HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/19226/index.m3u8
-#EXTINF:0 tvg-rec="0",Bridge Hits HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/19227/index.m3u8
-#EXTINF:0 tvg-rec="0",МУЗ-ТВ HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/19228/index.m3u8
-#EXTINF:0 tvg-rec="0",Mafi2a Music HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/19235/index.m3u8
-#EXTINF:0 tvg-rec="0",Music Box Russia HD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/19255/index.m3u8
-#EXTINF:0 tvg-rec="0",M6 Music FHD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/19260/index.m3u8
-#EXTINF:0 tvg-rec="0",CHD TV  RU Rock FHD
-#EXTGRP:музыка
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/19394/index.m3u8
+
 #EXTINF:0 tvg-rec="7",Outdoor Channel
 #EXTGRP:познавательные
 http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/119/index.m3u8
@@ -2756,327 +2132,7 @@ http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/19412/index.m3u8
 #EXTINF:0 tvg-rec="0",MM Открытия HD
 #EXTGRP:познавательные
 http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/19415/index.m3u8
-#EXTINF:0 tvg-rec="7",Tiji TV
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/108/index.m3u8
-#EXTINF:0 tvg-rec="0",beIN Junior
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6140/index.m3u8
-#EXTINF:0 tvg-rec="3",NickToons SK
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6095/index.m3u8
-#EXTINF:0 tvg-rec="7",Gulli
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/109/index.m3u8
-#EXTINF:0 tvg-rec="7",Nick Jr
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/114/index.m3u8
-#EXTINF:0 tvg-rec="7",Nickelodeon
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/541/index.m3u8
-#EXTINF:0 tvg-rec="7",Disney
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/524/index.m3u8
-#EXTINF:0 tvg-rec="7",Детский мир
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/543/index.m3u8
-#EXTINF:0 tvg-rec="7",Jim Jam
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/138/index.m3u8
-#EXTINF:0 tvg-rec="7",Cartoon Network
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/143/index.m3u8
-#EXTINF:0 tvg-rec="7",Карусель
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/156/index.m3u8
-#EXTINF:0 tvg-rec="7",Ani
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/129/index.m3u8
-#EXTINF:0 tvg-rec="7",Мульт
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/909/index.m3u8
-#EXTINF:0 tvg-rec="3",Мульт HD
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/240/index.m3u8
-#EXTINF:0 tvg-rec="7",Boomerang
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/723/index.m3u8
-#EXTINF:0 tvg-rec="7",О!
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/727/index.m3u8
-#EXTINF:0 tvg-rec="7",Уникум
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/730/index.m3u8
-#EXTINF:0 tvg-rec="7",В гостях у сказки
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/737/index.m3u8
-#EXTINF:0 tvg-rec="3",Карусель (+3)
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/740/index.m3u8
-#EXTINF:0 tvg-rec="7",Мультимузыка
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/749/index.m3u8
-#EXTINF:0 tvg-rec="7",Мульт HD
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/921/index.m3u8
-#EXTINF:0 tvg-rec="3",Duck TV
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/1031/index.m3u8
-#EXTINF:0 tvg-rec="3",Baby TV
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/2084/index.m3u8
-#EXTINF:0 tvg-rec="3",Da Vinci Kids
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/1033/index.m3u8
-#EXTINF:0 tvg-rec="3",Da Vinci Kids UA
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/1034/index.m3u8
-#EXTINF:0 tvg-rec="3",СуперГерои
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/1041/index.m3u8
-#EXTINF:0 tvg-rec="3",Nickelodeon EN
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/1069/index.m3u8
-#EXTINF:0 tvg-rec="7",NickToons
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/849/index.m3u8
-#EXTINF:0 tvg-rec="7",Радость моя
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/853/index.m3u8
-#EXTINF:0 tvg-rec="3",Рыжий
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/2052/index.m3u8
-#EXTINF:0 tvg-rec="3",Капитан Фантастика
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/2098/index.m3u8
-#EXTINF:0 tvg-rec="3",Тамыр
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/2109/index.m3u8
-#EXTINF:0 tvg-rec="3",Смайлик ТВ
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/2157/index.m3u8
-#EXTINF:0 tvg-rec="3",Мультиландия
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/5055/index.m3u8
-#EXTINF:0 tvg-rec="3",Уникум
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/5056/index.m3u8
-#EXTINF:0 tvg-rec="0",Polsat Jim Jam PL
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/7298/index.m3u8
-#EXTINF:0 tvg-rec="7",Cartoons_90
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/11001/index.m3u8
-#EXTINF:0 tvg-rec="7",Cartoons Short
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/11002/index.m3u8
-#EXTINF:0 tvg-rec="7",Cartoons Big
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/11003/index.m3u8
-#EXTINF:0 tvg-rec="7",Кроха ТВ
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/11066/index.m3u8
-#EXTINF:0 tvg-rec="0",Жара kids HD
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/14147/index.m3u8
-#EXTINF:0 tvg-rec="0",Сказки Зайки
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/14150/index.m3u8
-#EXTINF:0 tvg-rec="0",Советские мультфильмы
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/14151/index.m3u8
-#EXTINF:0 tvg-rec="0",WOW!TV HD
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/14168/index.m3u8
-#EXTINF:0 tvg-rec="0",YOSSO TV Kids
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/14173/index.m3u8
-#EXTINF:0 tvg-rec="0",YOSSO TV Союзмульт
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/14178/index.m3u8
-#EXTINF:0 tvg-rec="0",Yosso TV Наше Детское
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/19433/index.m3u8
-#EXTINF:0 tvg-rec="0",UZ Nu pogody
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/14233/index.m3u8
-#EXTINF:0 tvg-rec="0",Bunny HD
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/14239/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Pixar FHD
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15092/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Disney FHD
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15093/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Мультфильмы FHD
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15094/index.m3u8
-#EXTINF:0 tvg-rec="0",Disney HD FR
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15185/index.m3u8
-#EXTINF:0 tvg-rec="0",Рыжий (Сурдоперевод)
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15280/index.m3u8
-#EXTINF:0 tvg-rec="0",Карусель +7 (Владивосток)
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15340/index.m3u8
-#EXTINF:0 tvg-rec="0",Карусель +3 (Омск)
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15436/index.m3u8
-#EXTINF:0 tvg-rec="0",Карусель +7
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15442/index.m3u8
-#EXTINF:0 tvg-rec="0",Карусель +0 (Элиста)
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15453/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Мультуб
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15520/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Новогодние мультфильмы
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15523/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Скуби-Ду
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/17007/index.m3u8
-#EXTINF:0 tvg-rec="0",Любимое ТВ HD
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/16007/index.m3u8
-#EXTINF:0 tvg-rec="0",Fresh Kids HD
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/16068/index.m3u8
-#EXTINF:0 tvg-rec="0",MS TOONS HD
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/16146/index.m3u8
-#EXTINF:0 tvg-rec="0",UZ Маша и Медведь HD
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/18165/index.m3u8
-#EXTINF:0 tvg-rec="0",UZ Союз Мульт HD
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/18168/index.m3u8
-#EXTINF:0 tvg-rec="0",MYTV Kids
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/19409/index.m3u8
-#EXTINF:0 tvg-rec="0",BCU Little HD
-#EXTGRP:детские
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/19425/index.m3u8
-#EXTINF:0 tvg-rec="0",ТНТ4 +0 (Тамбов)
-#EXTGRP:развлекательные
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15401/index.m3u8
-#EXTINF:0 tvg-rec="7",ТНТ4
-#EXTGRP:развлекательные
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/104/index.m3u8
-#EXTINF:0 tvg-rec="0",beIN DTX
-#EXTGRP:развлекательные
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6143/index.m3u8
-#EXTINF:0 tvg-rec="0",beIN Groummet
-#EXTGRP:развлекательные
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6141/index.m3u8
-#EXTINF:0 tvg-rec="0",beIN Outdoor
-#EXTGRP:развлекательные
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6139/index.m3u8
-#EXTINF:0 tvg-rec="7",ЖАРА
-#EXTGRP:развлекательные
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/105/index.m3u8
-#EXTINF:0 tvg-rec="7",Paramount Comedy Russia
-#EXTGRP:развлекательные
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/157/index.m3u8
-#EXTINF:0 tvg-rec="3",ТНТ (+2)
-#EXTGRP:развлекательные
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/717/index.m3u8
-#EXTINF:0 tvg-rec="7",НТВ Стиль
-#EXTGRP:развлекательные
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/745/index.m3u8
-#EXTINF:0 tvg-rec="3",Fashion One
-#EXTGRP:развлекательные
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/1010/index.m3u8
-#EXTINF:0 tvg-rec="3",World Fashion Channel
-#EXTGRP:развлекательные
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/1068/index.m3u8
-#EXTINF:0 tvg-rec="7",Суббота
-#EXTGRP:развлекательные
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/826/index.m3u8
-#EXTINF:0 tvg-rec="7",Драйв
-#EXTGRP:развлекательные
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/2021/index.m3u8
-#EXTINF:0 tvg-rec="7",Мужской
-#EXTGRP:развлекательные
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/2047/index.m3u8
-#EXTINF:0 tvg-rec="3",Luxury
-#EXTGRP:развлекательные
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/2072/index.m3u8
-#EXTINF:0 tvg-rec="3",Luxury
-#EXTGRP:развлекательные
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/5032/index.m3u8
-#EXTINF:0 tvg-rec="3",Анекдот ТВ
-#EXTGRP:развлекательные
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/5034/index.m3u8
-#EXTINF:0 tvg-rec="3",Театр
-#EXTGRP:развлекательные
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/2431/index.m3u8
-#EXTINF:0 tvg-rec="0",ТНТ HD Orig
-#EXTGRP:развлекательные
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/7251/index.m3u8
-#EXTINF:0 tvg-rec="0",Fashion TV HD 50
-#EXTGRP:развлекательные
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/10018/index.m3u8
-#EXTINF:0 tvg-rec="0",Fashion One HD 50
-#EXTGRP:развлекательные
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/10019/index.m3u8
-#EXTINF:0 tvg-rec="7",НАЗАД В 90-e
-#EXTGRP:развлекательные
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/11067/index.m3u8
-#EXTINF:0 tvg-rec="0",Илья ТВ Юмор HD
-#EXTGRP:развлекательные
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/13000/index.m3u8
-#EXTINF:0 tvg-rec="0",Илья Юмор HD
-#EXTGRP:развлекательные
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/14208/index.m3u8
-#EXTINF:0 tvg-rec="0",UZ Однажды в России HD
-#EXTGRP:развлекательные
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/14223/index.m3u8
-#EXTINF:0 tvg-rec="0",UZ 6 Кадров HD
-#EXTGRP:развлекательные
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/14231/index.m3u8
-#EXTINF:0 tvg-rec="0",UZ Уральские Пельмени HD
-#EXTGRP:развлекательные
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/18169/index.m3u8
-#EXTINF:0 tvg-rec="0",SKY HIGH MAN HD
-#EXTGRP:развлекательные
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/14245/index.m3u8
-#EXTINF:0 tvg-rec="0",Перец International
-#EXTGRP:развлекательные
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15227/index.m3u8
-#EXTINF:0 tvg-rec="0",СТС International
-#EXTGRP:развлекательные
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15228/index.m3u8
-#EXTINF:0 tvg-rec="0",ТНТ4 +2 (Уфа)
-#EXTGRP:развлекательные
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15310/index.m3u8
-#EXTINF:0 tvg-rec="0",ОСП-студия HD
-#EXTGRP:развлекательные
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/16004/index.m3u8
-#EXTINF:0 tvg-rec="0",Осторожно Модерн HD
-#EXTGRP:развлекательные
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/16005/index.m3u8
-#EXTINF:0 tvg-rec="0",Бьюти TV
-#EXTGRP:развлекательные
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/16010/index.m3u8
-#EXTINF:0 tvg-rec="0",Релакс TV
-#EXTGRP:развлекательные
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/16011/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Юмор 18+
-#EXTGRP:развлекательные
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/16137/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Уральские пельмени
-#EXTGRP:развлекательные
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/18198/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Кухня
-#EXTGRP:развлекательные
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/18199/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Баня
-#EXTGRP:развлекательные
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/18200/index.m3u8
+
 #EXTINF:0 tvg-rec="0",МАТЧ! +4 (Алтай, Дианэт)
 #EXTGRP:спорт
 http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15289/index.m3u8
@@ -4193,6 +3249,7 @@ http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/19245/index.m3u8
 #EXTINF:0 tvg-rec="0",Удар HD
 #EXTGRP:спорт
 http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/19246/index.m3u8
+
 #EXTINF:0 tvg-rec="7",Мир
 #EXTGRP:другие
 http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/214/index.m3u8
@@ -6494,6 +5551,7 @@ http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/19392/index.m3u8
 #EXTINF:0 tvg-rec="0",Саров 24 HD
 #EXTGRP:другие
 http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/19393/index.m3u8
+
 #EXTINF:0 tvg-rec="7",Первый канал HD
 #EXTGRP:HD
 http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/204/index.m3u8
@@ -7454,402 +6512,7 @@ http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/19251/index.m3u8
 #EXTINF:0 tvg-rec="0",kino watch тв Ужастик HD
 #EXTGRP:HD
 http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/19273/index.m3u8
-#EXTINF:0 tvg-rec="3",FilmBox
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/948/index.m3u8
-#EXTINF:0 tvg-rec="3",5 канал UA
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/945/index.m3u8
-#EXTINF:0 tvg-rec="3",24 Канал
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/951/index.m3u8
-#EXTINF:0 tvg-rec="3",Lale
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/953/index.m3u8
-#EXTINF:0 tvg-rec="3",Надiя ТВ
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/956/index.m3u8
-#EXTINF:0 tvg-rec="3",UA:ЛЬВIВ
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/958/index.m3u8
-#EXTINF:0 tvg-rec="3",BBB TV
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/959/index.m3u8
-#EXTINF:0 tvg-rec="3",UA:Київ
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/963/index.m3u8
-#EXTINF:0 tvg-rec="3",EU Music
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/925/index.m3u8
-#EXTINF:0 tvg-rec="3",Еспресо TV
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/927/index.m3u8
-#EXTINF:0 tvg-rec="3",Мега
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/929/index.m3u8
-#EXTINF:0 tvg-rec="0",Мега HD
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15124/index.m3u8
-#EXTINF:0 tvg-rec="3",К2
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/930/index.m3u8
-#EXTINF:0 tvg-rec="0",K2 HD
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15126/index.m3u8
-#EXTINF:0 tvg-rec="3",К1
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/931/index.m3u8
-#EXTINF:0 tvg-rec="0",K1 HD
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15125/index.m3u8
-#EXTINF:0 tvg-rec="3",Квартал ТВ
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/932/index.m3u8
-#EXTINF:0 tvg-rec="3",Enter-фільм
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/933/index.m3u8
-#EXTINF:0 tvg-rec="0",Enter-фільм HD
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15129/index.m3u8
-#EXTINF:0 tvg-rec="3",Новий Канал
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/935/index.m3u8
-#EXTINF:0 tvg-rec="0",Новий канал HD
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15128/index.m3u8
-#EXTINF:0 tvg-rec="3",НТН
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/936/index.m3u8
-#EXTINF:0 tvg-rec="3",Інтер
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/937/index.m3u8
-#EXTINF:0 tvg-rec="3",Пiксель ТВ
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/938/index.m3u8
-#EXTINF:0 tvg-rec="3",Первый городской (Кривой Рог)
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/939/index.m3u8
-#EXTINF:0 tvg-rec="3",ТВС HD UA
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/942/index.m3u8
-#EXTINF:0 tvg-rec="3",Медiаiнформ
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/943/index.m3u8
-#EXTINF:0 tvg-rec="3",ТРК Алекс
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/967/index.m3u8
-#EXTINF:0 tvg-rec="3",Правда Тут
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/973/index.m3u8
-#EXTINF:0 tvg-rec="3",UA:Тернопіль
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/5041/index.m3u8
-#EXTINF:0 tvg-rec="3",Рада
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/976/index.m3u8
-#EXTINF:0 tvg-rec="3",MAXXI TV
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/977/index.m3u8
-#EXTINF:0 tvg-rec="3",Первый городской
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/981/index.m3u8
-#EXTINF:0 tvg-rec="3",СК1
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/982/index.m3u8
-#EXTINF:0 tvg-rec="3",Перший дiловий
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/985/index.m3u8
-#EXTINF:0 tvg-rec="3",1+1 International
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/987/index.m3u8
-#EXTINF:0 tvg-rec="3",BOLT
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/991/index.m3u8
-#EXTINF:0 tvg-rec="3",Star Cinema
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/992/index.m3u8
-#EXTINF:0 tvg-rec="3",Чернiвецький Промiнь
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/1004/index.m3u8
-#EXTINF:0 tvg-rec="3",UA:Перший
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/1016/index.m3u8
-#EXTINF:0 tvg-rec="3",UA:Крым
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/1017/index.m3u8
-#EXTINF:0 tvg-rec="3",OBOZ TV
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/1028/index.m3u8
-#EXTINF:0 tvg-rec="3",TV5
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/1030/index.m3u8
-#EXTINF:0 tvg-rec="3",Star Family
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/1042/index.m3u8
-#EXTINF:0 tvg-rec="3",Інтер HD
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/1047/index.m3u8
-#EXTINF:0 tvg-rec="3",Телеканал Рибалка
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/1058/index.m3u8
-#EXTINF:0 tvg-rec="3",1+1
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/994/index.m3u8
-#EXTINF:0 tvg-rec="3",2+2
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/995/index.m3u8
-#EXTINF:0 tvg-rec="3",Бiгудi
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/989/index.m3u8
-#EXTINF:0 tvg-rec="3",НТА
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/990/index.m3u8
-#EXTINF:0 tvg-rec="3",ТВА
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/998/index.m3u8
-#EXTINF:0 tvg-rec="3",ZOOM
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/1000/index.m3u8
-#EXTINF:0 tvg-rec="0",Zoom HD
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15130/index.m3u8
-#EXTINF:0 tvg-rec="3",ПлюсПлюс
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/1002/index.m3u8
-#EXTINF:0 tvg-rec="3",Малятко ТВ
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/1003/index.m3u8
-#EXTINF:0 tvg-rec="3",Галичина
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/1005/index.m3u8
-#EXTINF:0 tvg-rec="3",Еко TV
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/1006/index.m3u8
-#EXTINF:0 tvg-rec="3",ТЕТ
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/1009/index.m3u8
-#EXTINF:0 tvg-rec="3",Україна
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/1011/index.m3u8
-#EXTINF:0 tvg-rec="3",Сонце
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/1013/index.m3u8
-#EXTINF:0 tvg-rec="3",Прямий HD
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/1015/index.m3u8
-#EXTINF:0 tvg-rec="3",Україна 24 HD
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/1022/index.m3u8
-#EXTINF:0 tvg-rec="3",УНІАН
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/1023/index.m3u8
-#EXTINF:0 tvg-rec="3",36.6 TV
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/1025/index.m3u8
-#EXTINF:0 tvg-rec="3",7 канал
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/1035/index.m3u8
-#EXTINF:0 tvg-rec="3",ТРК Круг
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/1040/index.m3u8
-#EXTINF:0 tvg-rec="3",ТРК Київ
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/1045/index.m3u8
-#EXTINF:0 tvg-rec="3",8 Канал UA HD
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/1046/index.m3u8
-#EXTINF:0 tvg-rec="3",Чернiвцi
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/1072/index.m3u8
-#EXTINF:0 tvg-rec="3",24 Канал HD
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/1063/index.m3u8
-#EXTINF:0 tvg-rec="3",4 канал
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/1039/index.m3u8
-#EXTINF:0 tvg-rec="3",Тернопіль 1
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/975/index.m3u8
-#EXTINF:0 tvg-rec="3",Перший Західний
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/5042/index.m3u8
-#EXTINF:0 tvg-rec="3",XSPORT UA
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6309/index.m3u8
-#EXTINF:0 tvg-rec="3",ICTV UA
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6302/index.m3u8
-#EXTINF:0 tvg-rec="0",ICTV HD
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15123/index.m3u8
-#EXTINF:0 tvg-rec="3",СТБ UA
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6304/index.m3u8
-#EXTINF:0 tvg-rec="0",СТБ HD
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15122/index.m3u8
-#EXTINF:0 tvg-rec="3",Интер UA
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6305/index.m3u8
-#EXTINF:0 tvg-rec="3",XSPORT UA
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6331/index.m3u8
-#EXTINF:0 tvg-rec="3",1+1 UA
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6310/index.m3u8
-#EXTINF:0 tvg-rec="3",Эспресо TV UA
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6311/index.m3u8
-#EXTINF:0 tvg-rec="3",Пиксель UA
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6312/index.m3u8
-#EXTINF:0 tvg-rec="0",Піксель HD
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15127/index.m3u8
-#EXTINF:0 tvg-rec="3",Спорт-1 UA
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6313/index.m3u8
-#EXTINF:0 tvg-rec="3",Спорт-2 UA
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6314/index.m3u8
-#EXTINF:0 tvg-rec="3",1+1 International UA
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6316/index.m3u8
-#EXTINF:0 tvg-rec="3",1+1 HD UA
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6317/index.m3u8
-#EXTINF:0 tvg-rec="3",ТРК Украина HD UA
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6318/index.m3u8
-#EXTINF:0 tvg-rec="3",Перший Т2 UA
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6319/index.m3u8
-#EXTINF:0 tvg-rec="3",Эспресо ТВ HD UA
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6321/index.m3u8
-#EXTINF:0 tvg-rec="3",Болт HD UA
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6322/index.m3u8
-#EXTINF:0 tvg-rec="3",UA
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6324/index.m3u8
-#EXTINF:0 tvg-rec="3",Star Cinema HD UA
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6325/index.m3u8
-#EXTINF:0 tvg-rec="3",Star Family HD UA
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6326/index.m3u8
-#EXTINF:0 tvg-rec="3",8 канал HD UA
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6327/index.m3u8
-#EXTINF:0 tvg-rec="3",Бігуді UA
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6330/index.m3u8
-#EXTINF:0 tvg-rec="3",NIKI Kids HD UA
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6332/index.m3u8
-#EXTINF:0 tvg-rec="3",NIKI Junior HD UA
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6333/index.m3u8
-#EXTINF:0 tvg-rec="3",М1 HD UA
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6334/index.m3u8
-#EXTINF:0 tvg-rec="3",М2 HD UA
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6335/index.m3u8
-#EXTINF:0 tvg-rec="3",Lale UA
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6337/index.m3u8
-#EXTINF:0 tvg-rec="3",ICTV UA
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6339/index.m3u8
-#EXTINF:0 tvg-rec="3",Новий канал UA
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6340/index.m3u8
-#EXTINF:0 tvg-rec="3",Кус Кус HD UA
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6341/index.m3u8
-#EXTINF:0 tvg-rec="3",2+2 UA
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6342/index.m3u8
-#EXTINF:0 tvg-rec="3",ОЦЕ HD
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6375/index.m3u8
-#EXTINF:0 tvg-rec="3",UA:Перший HD
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6376/index.m3u8
-#EXTINF:0 tvg-rec="3",ТЕТ HD
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6377/index.m3u8
-#EXTINF:0 tvg-rec="3",2+2 HD
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6378/index.m3u8
-#EXTINF:0 tvg-rec="3",ПлюсПлюс HD
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6379/index.m3u8
-#EXTINF:0 tvg-rec="3",Оце
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/6380/index.m3u8
-#EXTINF:0 tvg-rec="0",Первый автомобильный HD
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/7228/index.m3u8
-#EXTINF:0 tvg-rec="0",Megogo live HD UA
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15234/index.m3u8
-#EXTINF:0 tvg-rec="0",Терра UA
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15260/index.m3u8
-#EXTINF:0 tvg-rec="0",XSPORT Plus HD UA
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15261/index.m3u8
-#EXTINF:0 tvg-rec="0",Star Cinema UA
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15262/index.m3u8
-#EXTINF:0 tvg-rec="0",Quiz TV UA
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15263/index.m3u8
-#EXTINF:0 tvg-rec="0",Kino 1 UA
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15264/index.m3u8
-#EXTINF:0 tvg-rec="0",Film Box Art House HD UA
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15265/index.m3u8
-#EXTINF:0 tvg-rec="0",Film Box UA
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15266/index.m3u8
-#EXTINF:0 tvg-rec="0",ТЕЛЕВСЕСВІТ UA
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15267/index.m3u8
-#EXTINF:0 tvg-rec="0",КАРАВАН-ТВ UA
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15268/index.m3u8
-#EXTINF:0 tvg-rec="0",Наше РЕТРО UA
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15270/index.m3u8
-#EXTINF:0 tvg-rec="0",ПЕРШИЙ ЗАХІДНИЙ HD UA
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15271/index.m3u8
-#EXTINF:0 tvg-rec="0",ПРАВДАТУТ HD UA
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15272/index.m3u8
-#EXTINF:0 tvg-rec="0",Enter-фільм HD UA
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15273/index.m3u8
-#EXTINF:0 tvg-rec="0",ПЕРШИЙ ДІЛОВИЙ UA
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15274/index.m3u8
-#EXTINF:0 tvg-rec="0",ЕКО–ТВ UA
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15275/index.m3u8
-#EXTINF:0 tvg-rec="0",EU Music HD UA
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15276/index.m3u8
-#EXTINF:0 tvg-rec="0",EU MUSIC UA
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15277/index.m3u8
-#EXTINF:0 tvg-rec="0",4ever Music HD UA
-#EXTGRP:українські
-http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/15278/index.m3u8
+
 #EXTINF:0 tvg-rec="3",Food Network
 #EXTGRP:USA
 http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/1107/index.m3u8
@@ -8279,6 +6942,7 @@ http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/11108/index.m3u8
 #EXTINF:0 tvg-rec="0",NESN HD
 #EXTGRP:USA
 http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/11109/index.m3u8
+
 #EXTINF:0 tvg-rec="7",Первый канал FHD
 #EXTGRP:HD Orig
 http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/2402/index.m3u8
@@ -9359,6 +8023,7 @@ http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/10042/index.m3u8
 #EXTINF:0 tvg-rec="0",Премиальное HD orig
 #EXTGRP:HD Orig
 http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/10044/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Quadro 4К
 #EXTGRP:4K
 http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/19262/index.m3u8
@@ -9470,3 +8135,4 @@ http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/19402/index.m3u8
 #EXTINF:0 tvg-rec="0",Liberty Фан HD
 #EXTGRP:4K
 http://oeygijgk.megogo.xyz/iptv/WG5XTX5GQWA6RS/19403/index.m3u8
+
